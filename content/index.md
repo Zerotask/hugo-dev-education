@@ -11,4 +11,4 @@ test
 
 ## das ist ein h2
 
-Komm zu [abas](https://abas-erp.com)
+Komm zu [abas](https://abas-erp.com) und bewirb dich!
